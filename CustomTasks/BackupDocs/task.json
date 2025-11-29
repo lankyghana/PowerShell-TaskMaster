@@ -1,0 +1,8 @@
+{
+  "id": "backup-docs",
+  "name": "Backup Documents",
+  "description": "Create a zip backup of the user's Documents folder.",
+  "params": [
+    {"name": "Destination", "type": "string", "required": true}
+  ]
+}
