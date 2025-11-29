@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # PowerShell TaskMaster
 
@@ -31,3 +32,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines and instructions.
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+=======
+# All-In-One-Tool-security-app
+>>>>>>> a74f4603aa4cb8fe15168748e85c1adf64f17208
